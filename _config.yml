@@ -4,7 +4,7 @@ email:       phillipsantoro@gmail.com
 author:      Phillip Santoro
 description: ""
 baseurl:     ""
-url:         "phillipsantoro.github.io"
+url:         "http://phillipsantoro.github.io"
 
 # Google analytics
 google_analytics:
