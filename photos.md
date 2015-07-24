@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photography
-permalink: /photography/
+title: Photos
+permalink: /photos/
 ---
 ##### Montana 
 
